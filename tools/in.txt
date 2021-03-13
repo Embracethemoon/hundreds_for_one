@@ -1,0 +1,301 @@
+1.  排序
+[problem:POJ-1423], [problem:POJ-1694], [problem:POJ-1723], [problem:POJ-1727], [problem:POJ-1763], [problem:POJ-1788], [problem:POJ-1828], [problem:POJ-1838], [problem:POJ-1840], [problem:POJ-2201], [problem:POJ-2376], [problem:POJ-2377], [problem:POJ-2380], [problem:POJ-1318], [problem:POJ-1877], [problem:POJ-1928], [problem:POJ-1971], [problem:POJ-1974], [problem:POJ-1990], [problem:POJ-2001], [problem:POJ-2002], [problem:POJ-2092], [problem:POJ-2379],
+[problem:POJ-1002]（需要字 符处理，排序用快排即可） [problem:POJ-1007]（稳定的排序） [problem:POJ-2159]（题意较难懂） [problem:POJ-2231]
+[problem:POJ-2371]（简单排序） [problem:POJ-2388]（顺 序统计算 法） [problem:POJ-2418]（二*排序树）
+2.  搜 索. 回溯. 遍历
+[problem:POJ-1022],[problem:POJ-1111],[problem:POJ-1118],[problem:POJ-1129],[problem:POJ-1190],[problem:POJ-1562],[problem:POJ-1564],[problem:POJ-1573],[problem:POJ-1655],[problem:POJ-2184],[problem:POJ-2225],[problem:POJ-2243],[problem:POJ-2312],[problem:POJ-2362],[problem:POJ-2378],[problem:POJ-2386],[problem:POJ-1010],[problem:POJ-1011],[problem:POJ-1018],[problem:POJ-1020],[problem:POJ-1054],[problem:POJ-1062],[problem:POJ-1256],[problem:POJ-1321],[problem:POJ-1363],[problem:POJ-1501],[problem:POJ-1650],[problem:POJ-1659],[problem:POJ-1664],[problem:POJ-1753],[problem:POJ-2078],[problem:POJ-2083],[problem:POJ-2303],[problem:POJ-2310],[problem:POJ-2329]
+
+简单：[problem:POJ-1128], [problem:POJ-1166], [problem:POJ-1176], [problem:POJ-1231], [problem:POJ-1256], [problem:POJ-1270], [problem:POJ-1321], [problem:POJ-1543], [problem:POJ-1606], [problem:POJ-1664], [problem:POJ-1731], [problem:POJ-1742], [problem:POJ-1745], [problem:POJ-1847], [problem:POJ-1915], [problem:POJ-1950], [problem:POJ-2038], [problem:POJ-2157], [problem:POJ-2182], [problem:POJ-2183], [problem:POJ-2381], [problem:POJ-2386], [problem:POJ-2426],
+不易：[problem:POJ-1024], [problem:POJ-1054], [problem:POJ-1117], [problem:POJ-1167], [problem:POJ-1708], [problem:POJ-1746], [problem:POJ-1775], [problem:POJ-1878], [problem:POJ-1903], [problem:POJ-1966], [problem:POJ-2046], [problem:POJ-2197], [problem:POJ-2349],
+推荐：[problem:POJ-1011], [problem:POJ-1190], [problem:POJ-1191], [problem:POJ-1416], [problem:POJ-1579], [problem:POJ-1632], [problem:POJ-1639], [problem:POJ-1659], [problem:POJ-1680], [problem:POJ-1683], [problem:POJ-1691], [problem:POJ-1709], [problem:POJ-1714], [problem:POJ-1753], [problem:POJ-1771], [problem:POJ-1826], [problem:POJ-1855], [problem:POJ-1856], [problem:POJ-1890], [problem:POJ-1924], [problem:POJ-1935], [problem:POJ-1948], [problem:POJ-1979], [problem:POJ-1980], [problem:POJ-2170], [problem:POJ-2288], [problem:POJ-2331], [problem:POJ-2339], [problem:POJ-2340],[problem:POJ-1979]（和迷宫类似） [problem:POJ-1980]（对剪枝要求较高）
+3.  历法
+[problem:POJ-1008] [problem:POJ-2080] （这种题要小心）
+4.  枚举
+[problem:POJ-1012]，[problem:POJ-1046]， [problem:POJ-1387]， [problem:POJ-1411]， [problem:POJ-2245]， [problem:POJ-2326]， [problem:POJ-2363]， [problem:POJ-2381]，[problem:POJ-1054]（剪枝要求较高），[problem:POJ-1650](小数的精度问题）
+5.  数 据结构的典型算法
+容易：[problem:POJ-1182], [problem:POJ-1656], [problem:POJ-2021], [problem:POJ-2023], [problem:POJ-2051], [problem:POJ-2153], [problem:POJ-2227], [problem:POJ-2236], [problem:POJ-2247], [problem:POJ-2352], [problem:POJ-2395],
+不易：[problem:POJ-1145], [problem:POJ-1177], [problem:POJ-1195], [problem:POJ-1227], [problem:POJ-1661], [problem:POJ-1834],
+推荐：[problem:POJ-1330], [problem:POJ-1338], [problem:POJ-1451], [problem:POJ-1470], [problem:POJ-1634], [problem:POJ-1689], [problem:POJ-1693], [problem:POJ-1703], [problem:POJ-1724], [problem:POJ-1988], [problem:POJ-2004], [problem:POJ-2010], [problem:POJ-2119], [problem:POJ-2274], [problem:POJ-1125](弗洛伊德算法) ，[problem:POJ-2421]（图的最小生成树）
+6.  动态规划
+[problem:POJ-1037] A decorative fence. 
+[problem:POJ-1050] To the Max. 
+[problem:POJ-1088] 滑雪. 
+[problem:POJ-1125] Stockbroker Grapevine. 
+[problem:POJ-1141] Brackets Sequence. 
+[problem:POJ-1159] Palindrome. 
+[problem:POJ-1160] Post Office. 
+[problem:POJ-1163] The Triangle. 
+[problem:POJ-1458] Common Subsequence. 
+[problem:POJ-1579] Function Run Fun. 
+[problem:POJ-1887] Testing the CATCHER. 
+[problem:POJ-1953] World Cup Noise. 
+[problem:POJ-2386] Lake Counting
+动态规划
+容易：
+[problem:POJ-1018], [problem:POJ-1050], [problem:POJ-1083], [problem:POJ-1088], [problem:POJ-1125], [problem:POJ-1143], [problem:POJ-1157], [problem:POJ-1163], [problem:POJ-1178], [problem:POJ-1179], [problem:POJ-1189], [problem:POJ-1208], [problem:POJ-1276], [problem:POJ-1322], [problem:POJ-1414], [problem:POJ-1456], [problem:POJ-1458], [problem:POJ-1609], [problem:POJ-1644], [problem:POJ-1664], [problem:POJ-1690], [problem:POJ-1699], [problem:POJ-1740], [problem:POJ-1742], [problem:POJ-1887], [problem:POJ-1926], [problem:POJ-1936], [problem:POJ-1952], [problem:POJ-1953], [problem:POJ-1958], [problem:POJ-1959], [problem:POJ-1962], [problem:POJ-1975], [problem:POJ-1989], [problem:POJ-2018], [problem:POJ-2029], [problem:POJ-2033], [problem:POJ-2063], [problem:POJ-2081], [problem:POJ-2082], [problem:POJ-2181], [problem:POJ-2184], [problem:POJ-2192], [problem:POJ-2231], [problem:POJ-2279], [problem:POJ-2329], [problem:POJ-2336], [problem:POJ-2346], [problem:POJ-2353], [problem:POJ-2355], [problem:POJ-2356], [problem:POJ-2385], [problem:POJ-2392], [problem:POJ-2424],
+不易：
+[problem:POJ-1019], [problem:POJ-1037], [problem:POJ-1080], [problem:POJ-1112], [problem:POJ-1141], [problem:POJ-1170], [problem:POJ-1192], [problem:POJ-1239], [problem:POJ-1655], [problem:POJ-1695], [problem:POJ-1707], [problem:POJ-1733], [problem:POJ-1737], [problem:POJ-1837], [problem:POJ-1850], [problem:POJ-1920], [problem:POJ-1934], [problem:POJ-1937], [problem:POJ-1964], [problem:POJ-2039], [problem:POJ-2138], [problem:POJ-2151], [problem:POJ-2161], [problem:POJ-2178],
+推荐：
+[problem:POJ-1015], [problem:POJ-1635], [problem:POJ-1636], [problem:POJ-1671], [problem:POJ-1682], [problem:POJ-1692], [problem:POJ-1704], [problem:POJ-1717], [problem:POJ-1722], [problem:POJ-1726], [problem:POJ-1732], [problem:POJ-1770], [problem:POJ-1821], [problem:POJ-1853], [problem:POJ-1949], [problem:POJ-2019], [problem:POJ-2127], [problem:POJ-2176], [problem:POJ-2228], [problem:POJ-2287], [problem:POJ-2342], [problem:POJ-2374], [problem:POJ-2378], [problem:POJ-2384], [problem:POJ-2411],
+7.  贪心
+[problem:POJ-1042], [problem:POJ-1065], [problem:POJ-1230], [problem:POJ-1784],[problem:POJ-1328] [problem:POJ-1755]（或用单纯形方法），[problem:POJ-2054]，[problem:POJ-1017]， [problem:POJ-1328]，[problem:POJ-1862]， [problem:POJ-1922] ，[problem:POJ-2054]， [problem:POJ-2209]， [problem:POJ-2313]， [problem:POJ-2325]， [problem:POJ-2370]。
+8.  模拟
+容易：[problem:POJ-1006], [problem:POJ-1008], [problem:POJ-1013], [problem:POJ-1016], [problem:POJ-1017], [problem:POJ-1169], [problem:POJ-1298], [problem:POJ-1326], [problem:POJ-1350], [problem:POJ-1363], [problem:POJ-1676], [problem:POJ-1786], [problem:POJ-1791], [problem:POJ-1835], [problem:POJ-1970], [problem:POJ-2317], [problem:POJ-2325], [problem:POJ-2390],
+不易：[problem:POJ-1012], [problem:POJ-1082], [problem:POJ-1099], [problem:POJ-1114], [problem:POJ-1642], [problem:POJ-1677], [problem:POJ-1684], [problem:POJ-1886],[problem:POJ-1281] [problem:POJ-1928] [problem:POJ-2083] [problem:POJ-2141] [problem:POJ-2015]
+9.  递归
+[problem:POJ-1664]
+10. 字符串处理
+[problem:POJ-1488], [problem:POJ-1598], [problem:POJ-1686], [problem:POJ-1706], [problem:POJ-1747], [problem:POJ-1748], [problem:POJ-1750], [problem:POJ-1760], [problem:POJ-1782], [problem:POJ-1790], [problem:POJ-1866], [problem:POJ-1888], [problem:POJ-1896], [problem:POJ-1951], [problem:POJ-2003], [problem:POJ-2121], [problem:POJ-2141], [problem:POJ-2145], [problem:POJ-2159], [problem:POJ-2337], [problem:POJ-2359], [problem:POJ-2372], [problem:POJ-2406], [problem:POJ-2408], [problem:POJ-1016] [problem:POJ-1051] [problem:POJ-1126] [problem:POJ-1318] [problem:POJ-1572] [problem:POJ-1917] [problem:POJ-1936] [problem:POJ-2039] [problem:POJ-2083] [problem:POJ-2136] [problem:POJ-2271] [problem:POJ-2317] [problem:POJ-2330]，[problem:POJ-2121] [problem:POJ-2403]
+11. 数论
+[problem:POJ-1006],[problem:POJ-1014],[problem:POJ-1023],[problem:POJ-1061],[problem:POJ-1152],[problem:POJ-1183],[problem:POJ-1730],[problem:POJ-2262]
+12. 几何有关的题目
+凸包：[problem:POJ-1113], [problem:POJ-1228], [problem:POJ-1794], [problem:POJ-2007], [problem:POJ-2187],[problem:POJ-1113] wall，[problem:POJ-2187] beauty contest
+容易：[problem:POJ-1319], [problem:POJ-1654], [problem:POJ-1673], [problem:POJ-1675], [problem:POJ-1836], [problem:POJ-2074], [problem:POJ-2137], [problem:POJ-2318],
+不易：[problem:POJ-1685], [problem:POJ-1687], [problem:POJ-1696], [problem:POJ-1873], [problem:POJ-1901], [problem:POJ-2172], [problem:POJ-2333],
+13. 任意精度运算. 数字游戏. 高精度计算
+[problem:POJ-1001] [problem:POJ-1023] [problem:POJ-1047] [problem:POJ-1060] [problem:POJ-1079] [problem:POJ-1131] [problem:POJ-1140] [problem:POJ-1142] [problem:POJ-1207] [problem:POJ-1220] [problem:POJ-1284] [problem:POJ-1289] [problem:POJ-1306] [problem:POJ-1316] [problem:POJ-1338] [problem:POJ-1405] [problem:POJ-1454][problem:POJ-1503] [problem:POJ-1504] [problem:POJ-1519] [problem:POJ-1565] [problem:POJ-1650] [problem:POJ-1969] [problem:POJ-2000] [problem:POJ-2006] [problem:POJ-2081] [problem:POJ-2247] [problem:POJ-2262] [problem:POJ-2305] [problem:POJ-2316] [problem:POJ-2389]
+[problem:POJ-1001], [problem:POJ-1220], [problem:POJ-1405], [problem:POJ-1503],[problem:POJ-1001]（高精度乘法） [problem:POJ-2413](高精度加法，还有二分查找)
+14. 概率统计
+[problem:POJ-1037],[problem:POJ-1050]
+15. 小费用最大流. 最大流
+[problem:POJ-2195] going home，[problem:POJ-2400] supervisor, supervisee，[problem:POJ-1087] a plug for UNIX，[problem:POJ-1149] PIGS，[problem:POJ-1273] drainage ditches，[problem:POJ-1274] the perfect stall，[problem:POJ-1325] machine schedule，[problem:POJ-1459] power network，[problem:POJ-2239] selecting courses
+16. 压缩存储的DP
+[problem:POJ-1038] bugs integrated inc，[problem:POJ-1185] 炮兵阵地，[problem:POJ-2430] lazy cow
+17. 最长公共子串（LCS）
+[problem:POJ-1080] human gene functions，[problem:POJ-1159] palindrome，[problem:POJ-1458] common subsequence，[problem:POJ-2192] zipper
+18. 图论及组合数 学
+[problem:POJ-2421] Constructing Roads. 
+[problem:POJ-2369] Permutations. 
+[problem:POJ-2234] Matches Game. 
+[problem:POJ-2243] Knight Moves. 
+[problem:POJ-2249] Binomial Showdown. 
+[problem:POJ-2255] Tree Recovery. 
+[problem:POJ-2084] Game of Connections. 
+[problem:POJ-1906] Three powers. 
+[problem:POJ-1833] 排列. 
+[problem:POJ-1850] Code. 
+[problem:POJ-1562] Oil Deposits. 
+[problem:POJ-1496] Word Index. 
+[problem:POJ-1306] Combinations. 
+[problem:POJ-1125] Stockbroker Grapevine. 
+[problem:POJ-1129] Channel Allocation. 
+[problem:POJ-1146] ID Codes. 
+[problem:POJ-1095] Trees Made to Order. 找规律
+[problem:POJ-2247] Humble Numbers. 
+[problem:POJ-2309] BST. 
+[problem:POJ-2346] Lucky tickets. 
+[problem:POJ-2370] Democracy in danger. 
+[problem:POJ-2365] Rope. 
+[problem:POJ-2101] Honey and Milk Land
+[problem:POJ-2028] When Can We Meet?. 
+[problem:POJ-2084] Game of Connections. 
+[problem:POJ-1915] Knight Moves. 
+[problem:POJ-1922] Ride to School. 
+[problem:POJ-1941] The Sierpinski Fractal. 
+[problem:POJ-1953] World Cup Noise. 
+[problem:POJ-1958] Strange Towers of Hanoi. 
+[problem:POJ-1969] Count on Canton. 
+[problem:POJ-1806] Manhattan [problem:POJ-2025]. 
+[problem:POJ-1809] Regetni. 
+[problem:POJ-1844] Sum. 
+[problem:POJ-1870] Bee Breeding. 
+[problem:POJ-1702] Eva\'s Balance. 
+[problem:POJ-1728] A flea on a chessboard. 
+[problem:POJ-1604] Just the Facts. 
+[problem:POJ-1642] Stacking Cubes. 
+[problem:POJ-1656] Counting Black. 
+[problem:POJ-1657] Distance on Chessboard. 
+[problem:POJ-1662] CoIns. 
+[problem:POJ-1663] Number Steps. 
+[problem:POJ-1313] Booklet Printing. 
+[problem:POJ-1316] Self Numbers. 
+[problem:POJ-1320] Street Numbers. 
+[problem:POJ-1323] Game Prediction. 
+[problem:POJ-1338] Ugly Numbers. 
+[problem:POJ-1244] Slots of Fun. 
+[problem:POJ-1250] Tanning Salon. 
+[problem:POJ-1102] LC-Display. 
+[problem:POJ-1147] Binary codes. 
+[problem:POJ-1013] Counterfeit Dollar. 
+19. 博弈类
+[problem:POJ-1067] 取石子游戏. 
+[problem:POJ-1740] A New Stone Game. 
+[problem:POJ-2234] Matches Game. 
+[problem:POJ-1082] Calendar Game . 
+[problem:POJ-2348] Euclid\'s Game. 
+[problem:POJ-2413] How many Fibs?. 
+[problem:POJ-2419] Forest
+20. 简单. 模拟题
+[problem:POJ-1001] Exponentiation . 
+[problem:POJ-1002] 487-[problem:POJ-3279]. 
+[problem:POJ-1003] Hangover . 
+[problem:POJ-1701] Dissatisfying Lift. 
+[problem:POJ-2301] Beat the Spread!. 
+[problem:POJ-2304] Combination Lock. 
+[problem:POJ-2328] Guessing Game. 
+[problem:POJ-2403] Hay Points . 
+[problem:POJ-2406] Power Strings. 
+[problem:POJ-2339] Rock, Scissors, Paper. 
+[problem:POJ-2350] Above Average. 
+[problem:POJ-2218] Does This Make Me Look Fat?. 
+[problem:POJ-2260] Error Correction. 
+[problem:POJ-2262] Goldbach\'s Conjecture. 
+[problem:POJ-2272] Bullseye. 
+[problem:POJ-2136] Vertical Histogram. 
+[problem:POJ-2174] Decoding Task. 
+[problem:POJ-2183] Bovine Math Geniuses. 
+[problem:POJ-2000] Gold Coins. 
+[problem:POJ-2014] Flow Layout. 
+[problem:POJ-2051] Argus. 
+[problem:POJ-2081] Calendar. 
+[problem:POJ-1918] Ranking List. 
+[problem:POJ-1922] Ride to School. 
+[problem:POJ-1970] The Game. 
+[problem:POJ-1972] Dice Stacking. 
+[problem:POJ-1974] The Happy Worm. 
+[problem:POJ-1978] Hanafuda Shuffle. 
+[problem:POJ-1979] Red and Black. 
+[problem:POJ-1617] Crypto Columns. 
+[problem:POJ-1666] Candy Sharing Game. 
+[problem:POJ-1674] Sorting by Swapping. 
+[problem:POJ-1503] Integer Inquiry. 
+[problem:POJ-1504] Adding Reversed Numbers. 
+[problem:POJ-1528] Perfection. 
+[problem:POJ-1546] Basically Speaking. 
+[problem:POJ-1547] Clay Bully. 
+[problem:POJ-1573] Robot Motion. 
+[problem:POJ-1575] Easier Done Than Said?. 
+[problem:POJ-1581] A Contesting Decision. 
+[problem:POJ-1590] Palindromes. 
+[problem:POJ-1454] Factorial Frequencies. 
+[problem:POJ-1363] Rails. 
+[problem:POJ-1218] THE DRUNK JAILER. 
+[problem:POJ-1281] MANAGER. 
+[problem:POJ-1132] Border. 
+[problem:POJ-1028] Web Navigation. 
+21. 初等数学
+[problem:POJ-1003] Hangover. 
+[problem:POJ-1045] Bode Plot. 
+[problem:POJ-1254] Hansel and Grethel. 
+[problem:POJ-1269] Intersecting Lines. 
+[problem:POJ-1401] Factorial. 
+[problem:POJ-1410] Intersection. 
+[problem:POJ-2363] Blocks . 
+[problem:POJ-2365] Rope. 
+[problem:POJ-2242] The Circumference of the Circle. 
+[problem:POJ-2291] Rotten Ropes. 
+[problem:POJ-2295] A DP Problem. 
+[problem:POJ-2126] Factoring a Polynomial. 
+[problem:POJ-2191] Mersenne Composite Numbers. 
+[problem:POJ-2196] Specialized Four-Digit Numbers. 
+[problem:POJ-1914] Cramer\'s Rule. 
+[problem:POJ-1835] 宇航员. 
+[problem:POJ-1799] Yeehaa!. 
+[problem:POJ-1607] Deck. 
+[problem:POJ-1244] Slots of Fun. 
+[problem:POJ-1269] Intersecting Lines. 
+[problem:POJ-1299] Polar Explorer. 
+[problem:POJ-1183] 反正切函 数的应 用. 
+22. 匹配
+[problem:POJ-1274], [problem:POJ-1422], [problem:POJ-1469], [problem:POJ-1719], [problem:POJ-2060], [problem:POJ-2239]
+===================================
+经 典
+[problem:POJ-1011]（搜索好题）
+[problem:POJ-1012]（学会打表）
+[problem:POJ-1013]
+[problem:POJ-1019]（它体现了很多此类问题的特点）
+[problem:POJ-1050]（绝对经典的dp）
+[problem:POJ-1088]（dp好题）
+[problem:POJ-1157]（花店，经典的dp）
+[problem:POJ-1163]（怎么经典的dp那么多呀？？？）
+[problem:POJ-1328]（贪心）
+[problem:POJ-1458]（最长公共子序列）
+[problem:POJ-1647]（很好的真题，考临场分析准确和下手迅速）
+[problem:POJ-1654]（学会多边形面积的三角形求法）
+[problem:POJ-1655]（一类无根树的dp问题）
+[problem:POJ-1804]（逆序对）
+[problem:POJ-2084]（经典组合数学问题）
+[problem:POJ-2187]（用凸包求最远点对，求出凸包后应该有O(N)的求法，可我就是调不出来）
+[problem:POJ-2195]（二分图的最佳匹配）
+[problem:POJ-2242]（计算几何经典）
+[problem:POJ-2295]（等式处理）
+[problem:POJ-2353]（dp，但要记录最佳路径）
+[problem:POJ-2354]（立体解析几何）
+[problem:POJ-2362]（搜索好题）
+[problem:POJ-2410]（读懂题是关键）
+[problem:POJ-2411]（经典dp）
+
+趣味
+[problem:POJ-1067]（很难的数学，但仔细研究，是一片广阔的领域）
+[problem:POJ-1147]（有O(n)的算法，需要思考）
+[problem:POJ-1240]（直到一棵树的先序和后序遍历，那么有几种中序遍历呢？dp）
+[problem:POJ-1426]（是数论吗？错，是图论！）
+[problem:POJ-1648]（别用计算几何，用整点这个特点绕过精度的障碍吧）
+[problem:POJ-1833]（找规律）
+[problem:POJ-1844]（貌似dp或是搜索，其实是道有趣的数学题）
+[problem:POJ-1922]（贪心，哈哈）
+[problem:POJ-2231]
+[problem:POJ-2305]（不需要高精度噢）
+[problem:POJ-2328]（要仔细噢）
+[problem:POJ-2356]（数论知识）
+[problem:POJ-2359]（约瑟夫问题变种）
+[problem:POJ-2392]（有趣的问题）
+
+很繁的题
+[problem:POJ-1001]
+[problem:POJ-1008]
+[problem:POJ-1087]（构图很烦，还有二分图的最大匹配）
+[problem:POJ-1128]（USACO）
+[problem:POJ-1245]
+[problem:POJ-1329]
+[problem:POJ-1550]（考的是读题和理解能力）
+[problem:POJ-1649]（dp）
+[problem:POJ-2200]（字符串处理+枚举）
+[problem:POJ-2358]（枚举和避免重复都很烦）
+[problem:POJ-2361]（仔细仔细再仔细）
+
+难题
+[problem:POJ-1014]（数学证明比较难，但有那种想法更重要）
+[problem:POJ-1037]（比较难的dp）
+[problem:POJ-1405]（高精度算法也分有等级之分，不断改进吧）
+[problem:POJ-2002]（不知道有没有比O(n^2*logn)更有的算法？）
+[problem:POJ-2054]（极难，很强的思考能力）
+[problem:POJ-2085]（组合数学）
+[problem:POJ-2414]（dp，但要剪枝）
+[problem:POJ-2415]（搜索）
+[problem:POJ-2423]（计算几何+统计）
+
+多解题
+[problem:POJ-1002]（可以用排序，也可以用统计的方法）
+[problem:POJ-1338]（搜索和dp都可以）
+[problem:POJ-1664]（搜索和dp都练一练吧）
+[problem:POJ-2082]（这可是我讲的题噢）
+[problem:POJ-2352]（桶排和二*树都行）
+
+Note:
+[problem:POJ-1011]: 很经典的剪支
+[problem:POJ-1014]: 难在数学上
+[problem:POJ-1017]: 严格的数学证明貌似不容易
+[problem:POJ-1021]: 有点繁,考察对图形进行各种旋转的处理
+[problem:POJ-1083]: 巧妙的思考角度
+[problem:POJ-1150]: 分奇偶讨论,lg(n)算法
+[problem:POJ-1218]: 三行就够了,虽然简单,但也有优劣之别
+[problem:POJ-1505]: 二分加贪心
+[problem:POJ-1654]: 做法也许很多吧,本人用有向面积做的
+[problem:POJ-1674]: 计算圈的个数(算是graph 吧)
+[problem:POJ-1700]: 数学证明不容易
+[problem:POJ-1742]: O(m*n)的算法
+[problem:POJ-1863]: 要耐心地慢慢写…^_^
+[problem:POJ-1988]: 并查集
+[problem:POJ-2051]: 堆
+[problem:POJ-2078]: 不难，但剪支可以做到很好
+[problem:POJ-2082]::O(n),你想到了吗？
+[problem:POJ-2084]: 卡特兰数
+[problem:POJ-2182]: 线段树
+[problem:POJ-2195]: 最小费用最大流
+[problem:POJ-2234]: 经典博弈算法
+[problem:POJ-2236]: 并查集
+[problem:POJ-2299]: 二分思想
+[problem:POJ-2395]: Kruskal 最小生成树的拓展
+[problem:POJ-2406]: KMP
+[problem:POJ-2411]: 用二进制串来表示状态
